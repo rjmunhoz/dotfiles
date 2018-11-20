@@ -150,7 +150,7 @@ function mongosync {
 }
 
 function gmc {
-	git clone "git@gitlab.com:mantris/$1.git"
+	git clone "git@gitlab.com:rjmunhoz/$1.git"
 }
 
 function otw {
